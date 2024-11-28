@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-27 06:23:18 +0000"
+    },
+    "done": true
+  },
+  "immersivecaves:immersive_caves": {
+    "criteria": {
+      "immersive_caves_0": "2024-09-27 06:23:18 +0000"
+    },
+    "done": true
+  },
+  "sandworm_mod:root": {
+    "criteria": {
+      "requirement": "2024-09-27 06:23:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-09-27 06:23:19 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-09-27 06:23:19 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
